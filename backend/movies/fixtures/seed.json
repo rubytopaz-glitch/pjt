@@ -1,0 +1,2658 @@
+[
+{
+  "model": "movies.genre",
+  "pk": 1,
+  "fields": {
+    "tmdb_id": 28,
+    "name": "액션"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 2,
+  "fields": {
+    "tmdb_id": 12,
+    "name": "모험"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 3,
+  "fields": {
+    "tmdb_id": 16,
+    "name": "애니메이션"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 4,
+  "fields": {
+    "tmdb_id": 35,
+    "name": "코미디"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 5,
+  "fields": {
+    "tmdb_id": 80,
+    "name": "범죄"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 6,
+  "fields": {
+    "tmdb_id": 99,
+    "name": "다큐멘터리"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 7,
+  "fields": {
+    "tmdb_id": 18,
+    "name": "드라마"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 8,
+  "fields": {
+    "tmdb_id": 10751,
+    "name": "가족"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 9,
+  "fields": {
+    "tmdb_id": 14,
+    "name": "판타지"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 10,
+  "fields": {
+    "tmdb_id": 36,
+    "name": "역사"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 11,
+  "fields": {
+    "tmdb_id": 27,
+    "name": "공포"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 12,
+  "fields": {
+    "tmdb_id": 10402,
+    "name": "음악"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 13,
+  "fields": {
+    "tmdb_id": 9648,
+    "name": "미스터리"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 14,
+  "fields": {
+    "tmdb_id": 10749,
+    "name": "로맨스"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 15,
+  "fields": {
+    "tmdb_id": 878,
+    "name": "SF"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 16,
+  "fields": {
+    "tmdb_id": 10770,
+    "name": "TV 영화"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 17,
+  "fields": {
+    "tmdb_id": 53,
+    "name": "스릴러"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 18,
+  "fields": {
+    "tmdb_id": 10752,
+    "name": "전쟁"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 19,
+  "fields": {
+    "tmdb_id": 37,
+    "name": "서부"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1,
+  "fields": {
+    "tmdb_id": 425274,
+    "title": "나우 유 씨 미 3",
+    "original_title": "Now You See Me: Now You Don't",
+    "overview": "한때 더러운 방식으로 돈을 모으는 재벌들을 시원하게 혼내주던 마술사기단 ‘포 호스맨’. 은퇴 후 평범한 삶을 살고 있던 그들에게 새로운 임무를 알리는 의미심장한 카드가 배달된다. 그렇게 다시 모이게 된 오리지널 ‘포 호스맨’은 자신들을 흉내 내던 신예 마술사들까지 영입하며 미션을 준비한다. 그들의 목표는 무기 밀매, 자금 세탁 등 더러운 돈에 물든 ‘하트 다이아몬드’를 훔치는 것. 하지만 다이아몬드를 훔치고, 통쾌한 쇼를 선보이려는 이들 앞에는 수많은 함정이 펼쳐지는데…",
+    "release_date": "2025-11-12",
+    "poster_path": "/dECA069mRikkghzgSBsM0cvic4F.jpg",
+    "backdrop_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+    "popularity": 441.1037,
+    "vote_average": 6.426,
+    "vote_count": 506,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.272Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 2,
+  "fields": {
+    "tmdb_id": 1223601,
+    "title": "시수: 복수의 길",
+    "original_title": "Sisu 2",
+    "overview": "전쟁 중 가족이 잔혹하게 학살당했던 집으로 돌아온 ‘죽지 않는 사나이’(요르마 토밀라)는 그 집을 통째로 해체해 트럭에 싣고, 가족을 기리기 위해 더 안전한 곳에 다시 세우려 한다. 그러나 그의 가족을 죽인 붉은 군대 지휘관(스티븐 랭)이 복수를 끝내기 위해 돌아오면서, 나라를 가로지르는 극한의 추격전이 시작되는데... 목숨을 건 처절한 사투가 펼쳐진다.",
+    "release_date": "2025-10-21",
+    "poster_path": "/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg",
+    "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
+    "popularity": 405.4296,
+    "vote_average": 7.782,
+    "vote_count": 179,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.275Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 3,
+  "fields": {
+    "tmdb_id": 83533,
+    "title": "아바타: 불과 재",
+    "original_title": "Avatar: Fire and Ash",
+    "overview": "인간들과의 전쟁으로 첫째 아들 ‘네테이얌’을 잃은 후, ‘제이크’와 ‘네이티리’는 깊은 슬픔에 빠진다. 상실에 빠진 이들 앞에 '바랑'이 이끄는 재의 부족이 등장하면서, 판도라는 더욱 큰 위험에 빠지게 되고, ‘설리’ 가족은 선택의 기로에 서게 되는데…",
+    "release_date": "2025-12-17",
+    "poster_path": "/l18o0AK18KS118tWeROOKYkF0ng.jpg",
+    "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+    "popularity": 371.8853,
+    "vote_average": 7.171,
+    "vote_count": 231,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.277Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 4,
+  "fields": {
+    "tmdb_id": 798645,
+    "title": "더 러닝 맨",
+    "original_title": "The Running Man",
+    "overview": "실직한 가장 ‘벤 리처즈’가 거액의 상금을 위해 30일간 잔인한 추격자들로부터 살아남아야 하는 글로벌 서바이벌 프로그램에 참가하며 펼쳐지는 추격 액션 블록버스터",
+    "release_date": "2025-11-11",
+    "poster_path": "/klfSEbFOquMFjBQJ5uKAfp0rrsK.jpg",
+    "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
+    "popularity": 305.6151,
+    "vote_average": 6.882,
+    "vote_count": 643,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.280Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 5,
+  "fields": {
+    "tmdb_id": 1084242,
+    "title": "주토피아 2",
+    "original_title": "Zootopia 2",
+    "overview": "미스터리한 뱀 게리가 나타난 순간, 주토피아가 다시 흔들리기 시작했다! 혼란에 빠진 도시를 구하기 위해 환상의 콤비 주디와 닉이 잠입 수사에 나서고 상상 그 이상의 진실과 위협을 마주하게 되는데...!",
+    "release_date": "2025-11-26",
+    "poster_path": "/ib6v6qUXzez1x2qIOLN7C0yJNPQ.jpg",
+    "backdrop_path": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+    "popularity": 352.2864,
+    "vote_average": 7.647,
+    "vote_count": 658,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.281Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 6,
+  "fields": {
+    "tmdb_id": 812583,
+    "title": "나이브스 아웃: 웨이크 업 데드 맨",
+    "original_title": "Wake Up Dead Man: A Knives Out Mystery",
+    "overview": "브누아 블랑이 탐정 인생을 통틀어 가장 위험한 사건으로 돌아온다.어두운 과거를 지닌 작은 마을의 성당. 그곳에서 불가사의한 범죄가 발생한다. 그러자 브누아 블랑 탐정이 신실한 젊은 신부와 함께 수사에 나선다.",
+    "release_date": "2025-11-26",
+    "poster_path": "/qFXkslzkBIihZnwyYal9WnQ9OTe.jpg",
+    "backdrop_path": "/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
+    "popularity": 269.6689,
+    "vote_average": 7.309,
+    "vote_count": 782,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.283Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 7,
+  "fields": {
+    "tmdb_id": 1196067,
+    "title": "Worldbreaker",
+    "original_title": "Worldbreaker",
+    "overview": "",
+    "release_date": "2025-10-30",
+    "poster_path": "/7K8w6mdrJp0oaSoKWGyjSZ4Zv2z.jpg",
+    "backdrop_path": "/4mZ06VpfpAPuaUPn1SEV0brbbxe.jpg",
+    "popularity": 261.4521,
+    "vote_average": 6.357,
+    "vote_count": 21,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:46.676Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 8,
+  "fields": {
+    "tmdb_id": 982843,
+    "title": "대홍수",
+    "original_title": "대홍수",
+    "overview": "대홍수가 덮친 지구 종말의 날. 물에 잠겨가는 아파트에 갇힌 연구원과 어린 아들이 탈출을 시도한다. 그 순간 도착한 중대 임무. 그녀는 인류의 운명이 걸린 과제를 끝까지 완수할 수 있을까.",
+    "release_date": "2025-09-18",
+    "poster_path": "/covyBUdRYoIoY4K5YzDEaxcZZmz.jpg",
+    "backdrop_path": "/3jMN1k8b0Ptd9eMoeftUyDGJdCh.jpg",
+    "popularity": 263.7683,
+    "vote_average": 6.733,
+    "vote_count": 30,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:46.677Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 9,
+  "fields": {
+    "tmdb_id": 1217602,
+    "title": "London Calling",
+    "original_title": "London Calling",
+    "overview": "",
+    "release_date": "2025-09-18",
+    "poster_path": "/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg",
+    "backdrop_path": "/1dqFuNiutgBdNF9d5QOQBWHHvft.jpg",
+    "popularity": 179.7916,
+    "vote_average": 7.036,
+    "vote_count": 55,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:46.679Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 10,
+  "fields": {
+    "tmdb_id": 1387382,
+    "title": "Hunting Season",
+    "original_title": "Hunting Season",
+    "overview": "",
+    "release_date": "2025-12-05",
+    "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+    "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+    "popularity": 175.3527,
+    "vote_average": 7.1,
+    "vote_count": 41,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.284Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 11,
+  "fields": {
+    "tmdb_id": 533533,
+    "title": "트론: 아레스",
+    "original_title": "TRON: Ares",
+    "overview": "가상 세계에서 창조된 존재를 현실 세계로 끌어올 수 있는 시대. 그곳에서 탄생한 AI 최종 병기 아레스는 초인적인 힘과 속도, 고도 지능으로 설계되어 무한히 재생될 수 있지만 기술의 한계로 현실 세계에 단 29분만 머무를 수 있다. 그러던 중, 세계 최고의 프로그래머 이브 킴은 기술의 한계를 넘어설 해답을 발견하게 되고 아레스가 점차 통제를 벗어나 자신만의 목적을 향해 움직이기 시작하자 인류는 역사상 한 번도 경험한 적 없는 최악의 위기에 처하게 되는데…",
+    "release_date": "2025-10-08",
+    "poster_path": "/4nJcUMpWgnIPZPJ13TWKRxAdY9U.jpg",
+    "backdrop_path": "/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
+    "popularity": 153.7848,
+    "vote_average": 6.567,
+    "vote_count": 772,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:46.682Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 12,
+  "fields": {
+    "tmdb_id": 1228246,
+    "title": "프레디의 피자가게 2",
+    "original_title": "Five Nights at Freddy's 2",
+    "overview": "소문과 괴담에 휘말려 폐업한 ‘프레디의 피자가게’ 본점이 수십년 만에 다시 열리고, 그곳에 오랫동안 잠들어 있던 신형 프레디와 친구들이 눈을 뜨게 된다. 안면 인식 시스템을 가진 한층 더 기괴하고 오싹해진 신형 애니메트로닉스들은 이제 피자가게 밖으로 나와 세상을 공포에 몰아넣기 시작하는데…",
+    "release_date": "2025-12-03",
+    "poster_path": "/kEmPnUUXaF9hPgDMlc0eJht5JYO.jpg",
+    "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+    "popularity": 161.2683,
+    "vote_average": 6.3,
+    "vote_count": 202,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.285Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 13,
+  "fields": {
+    "tmdb_id": 1149167,
+    "title": "캐시 아웃 2",
+    "original_title": "High Rollers",
+    "overview": "은퇴한 은행털이범들이 납치된 동료를 구출하는 조건으로 카지노 금고 절도에 나서게 되는 이야기를 그린 극영화",
+    "release_date": "2025-03-14",
+    "poster_path": "/h4rwNz4HxVfSPXVpB39zGWoKmOV.jpg",
+    "backdrop_path": "/me3SisKfnxwBP69aOVKAVMw9vDM.jpg",
+    "popularity": 126.2687,
+    "vote_average": 6.608,
+    "vote_count": 83,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:46.684Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 14,
+  "fields": {
+    "tmdb_id": 1180831,
+    "title": "트롤의 습격 2",
+    "original_title": "Troll 2",
+    "overview": "또다시 위험한 트롤이 깨어나 나라 전역을 초토화한다. 이에 노라와 안드레아스, 크리스 소령은 그 어느 때보다 위험천만한 임무에 뛰어드는데.",
+    "release_date": "2025-11-30",
+    "poster_path": "/E5eqWkxgKeodl215pspacSucSJ.jpg",
+    "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+    "popularity": 127.2949,
+    "vote_average": 6.647,
+    "vote_count": 286,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.287Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 15,
+  "fields": {
+    "tmdb_id": 755898,
+    "title": "우주전쟁",
+    "original_title": "War of the Worlds",
+    "overview": "전설적인 동명 소설을 새롭게 재해석한 이번 작품은 거대한 침공의 서막을 알린다. 에바 롱고리아와 전설적인 래퍼이자 배우 아이스 큐브, 그리고 마이클 오닐과 이만 벤슨이 합류해, 기술과 감시, 사생활이라는 현대적 주제를 아우르는 짜릿한 우주급 모험을 선보인다.",
+    "release_date": "2025-07-29",
+    "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+    "popularity": 145.4905,
+    "vote_average": 4.3,
+    "vote_count": 784,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:46.686Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 16,
+  "fields": {
+    "tmdb_id": 1218925,
+    "title": "극장판 체인소 맨:  레제편",
+    "original_title": "劇場版 チェンソーマン レゼ篇",
+    "overview": "데블 헌터로 일하는 소년 ‘덴지’는 조직의 배신으로 죽음에 내몰린 순간 전기톱 악마견 ‘포치타’와의 계약으로 하나로 합쳐져 누구도 막을 수 없는 존재 ‘체인소 맨’으로 다시 태어난다. 악마와 사냥꾼, 그리고 정체불명의 적들이 얽힌 잔혹한 전쟁 속에서 ‘레제’라는 이름의 미스터리한 소녀가 ‘덴지’ 앞에 나타나는데… ‘덴지’는 사랑이라는 감정에 이끌려 지금껏 가장 위험한 배틀에 몸을 던진다!",
+    "release_date": "2025-09-19",
+    "poster_path": "/oTn0PoR8gSMpMqJaT2pUtkkN0Ia.jpg",
+    "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+    "popularity": 127.2516,
+    "vote_average": 8.312,
+    "vote_count": 447,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.288Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 17,
+  "fields": {
+    "tmdb_id": 1419406,
+    "title": "포풍추영",
+    "original_title": "捕风追影",
+    "overview": "첨단 감시 시스템과 삼엄한 보안망을 무력화하고, 수십억을 탈취한 정체불명의 범죄 조직. 통제 불능의 범죄에 마카오 경찰은 결국 은퇴한 전설의 범죄 추적 전문가 ‘황더중’에게 도움을 요청한다. 황더중은 신입 경찰 ‘허추궈’와 함께 최정예 감시반을 구성해, 범죄 조직의 수장 ‘푸룽성’을 추적하기 시작한다. 하지만 수사망이 조여올수록 상대의 덫과 함정은 더욱 교묘해지고, 예상치 못한 반격 속에 황더중 역시 추적당하기 시작하는데…",
+    "release_date": "2025-08-16",
+    "poster_path": "/pUCkdO40PWHdvU1GEYV6ywY7li2.jpg",
+    "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+    "popularity": 123.2849,
+    "vote_average": 6.534,
+    "vote_count": 164,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.289Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 18,
+  "fields": {
+    "tmdb_id": 1083637,
+    "title": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
+    "original_title": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
+    "overview": "",
+    "release_date": "2025-10-01",
+    "poster_path": "/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
+    "backdrop_path": "/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
+    "popularity": 114.2777,
+    "vote_average": 7.038,
+    "vote_count": 53,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:46.690Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 19,
+  "fields": {
+    "tmdb_id": 1242898,
+    "title": "프레데터: 죽음의 땅",
+    "original_title": "Predator: Badlands",
+    "overview": "프레데터로서 존재를 증명하기 위해 우주에서 가장 위험한 행성으로 첫 사냥에 나선 덱. 죽음의 땅에 도사린 모든 것으로부터 공격을 받던 순간, 휴머노이드 티아를 만난다. 최상위 포식자 칼리스크에 맞서게 된 둘은 생존과 각자의 목적을 위해 극한의 사투를 벌이게 되는데…",
+    "release_date": "2025-11-05",
+    "poster_path": "/8lpCbwbYh9SSzCFsHDndZHKrcD4.jpg",
+    "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+    "popularity": 121.5548,
+    "vote_average": 7.323,
+    "vote_count": 653,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:46.691Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 20,
+  "fields": {
+    "tmdb_id": 1379963,
+    "title": "상냥하게 말해줘",
+    "original_title": "Dímelo bajito",
+    "overview": "카밀라의 인생은 완벽하다. 공부, 친구 관계, 평판까지... 하지만 7년 동안 사라졌던 이웃 디 비앙코 형제가 갑자기 돌아왔다. 첫 키스 상대 티아고와 절친이었던 테일러. 둘의 귀환으로 카미의 세계는 완전히 흔들린다. 세 사람은 과거의 상처를 극복할 수 있을까? 아니면 또다시 모든 게 엉망이 돼 버릴까?",
+    "release_date": "2025-12-11",
+    "poster_path": "/nQmpQaCLwxUGeYkTGo5U8aCY91U.jpg",
+    "backdrop_path": "/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+    "popularity": 94.1353,
+    "vote_average": 6.011,
+    "vote_count": 47,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.290Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 21,
+  "fields": {
+    "tmdb_id": 1422096,
+    "title": "굿 보이",
+    "original_title": "Good Boy",
+    "overview": "인간 친구 토드가 며칠 전부터 이상하다. 여기서 토드를 지킬 수 있는 건 나 밖에 없다. 우리의 세계가 무너지지 않도록 내가 나서야 한다.",
+    "release_date": "2025-10-01",
+    "poster_path": "/t4HhBZDq9Wjxrm1iKZOwZnyJPFy.jpg",
+    "backdrop_path": "/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
+    "popularity": 84.2135,
+    "vote_average": 6.776,
+    "vote_count": 375,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.291Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 22,
+  "fields": {
+    "tmdb_id": 1291608,
+    "title": "धुरंधर",
+    "original_title": "धुरंधर",
+    "overview": "",
+    "release_date": "2025-12-05",
+    "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+    "backdrop_path": "/yRYgvo2crAeHzqKwXMVtEaDx7Qq.jpg",
+    "popularity": 89.9077,
+    "vote_average": 6.405,
+    "vote_count": 84,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.292Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 23,
+  "fields": {
+    "tmdb_id": 1311031,
+    "title": "극장판 귀멸의 칼날: 무한성편",
+    "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+    "overview": "혈귀로 변해버린 여동생 네즈코를 인간으로 되돌리기 위해 혈귀를 사냥하는 조직인 《귀살대》에 입대한 카마도 탄지로. 입대 후 동료인 아가츠마 젠이츠, 하시비라 이노스케와 함께 많은 혈귀와 싸우고, 성장하면서 세 사람의 우정과 유대는 깊어진다. 탄지로는 《귀살대》 최고위 검사인 《주》와도 함께 싸웠다. 「무한열차」에서는 염주・렌고쿠 쿄쥬로, 「유곽」에서는 음주・우즈이 텐겐, 「도공 마을」에서는 하주・토키토 무이치로, 연주・칸로지 미츠리와 함께 혈귀를 상대로 격렬한 전투를 벌였다. 그 후 다가올 혈귀와의 결전에 대비해 귀살대원들과 함께 《주》가 주도하는 합동 강화 훈련에 참가해 훈련을 받던 도중 《귀살대》의 본부인 우부야시키 저택에 나타난 키부츠지 무잔. 어르신의 위기에 달려온 《주》들과 탄지로였지만, 무잔의 술수로 의문의 공간으로 떨어지고 말았는데. 탄지로 일행이 떨어진 곳, 그곳은 혈귀의 본거지 《무한성》─ “귀살대”와 “혈귀”의 최종 결전의 포문이 열린다.",
+    "release_date": "2025-07-18",
+    "poster_path": "/m6Dho6hDCcL5KI8mOQNemZAedFI.jpg",
+    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "popularity": 90.5127,
+    "vote_average": 7.634,
+    "vote_count": 605,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.293Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 24,
+  "fields": {
+    "tmdb_id": 1246049,
+    "title": "드라큘라: 어 러브 테일",
+    "original_title": "Dracula",
+    "overview": "거장 뤽 베송이 선사하는 전설의 화려한 부활, 그 태초의 이야기.\r 15세기, 신을 위해 칼을 들고 전장을 누비던 왕자 '블라드'. 하지만 신은 그의 헌신에 대한 대가로 가장 사랑하는 여인을 죽음으로 몰아넣는다. 찢어질 듯한 슬픔과 배신감에 사로잡힌 그는 십자가를 부수고 신을 저주하며, 영원히 죽지 못하는 어둠의 길을 선택한다.\r 피를 마시며 영겁의 시간을 견뎌온 괴물, 드라큘라. 세기를 넘어 다시금 그에게 운명처럼 찾아온 사랑의 흔적은 그를 광기와 열망의 소용돌이로 몰아넣는다.\r \"내 사랑을 앗아간 신에게 복수하고, 영원 속에서 당신을 다시 찾으리라.\"\r 칸 영화제 남우주연상 수상자 케일럽 랜드리 존스와 크리스토프 왈츠의 압도적인 연기, 그리고 뤽 베송 감독 특유의 미학적인 비주얼이 만나 탄생한 고딕 판타지. 공포를 넘어선 비극적이고도 아름다운 핏빛 서사시가 당신의 심장을 조여온다.\r 괴물이 될 수밖에 없었던 한 남자의 처절한 사랑, 그 거대한 비극의 막이 오른다.",
+    "release_date": "2025-07-30",
+    "poster_path": "/vevuZVvb72VrbDzHiz4D8Z8XuGF.jpg",
+    "backdrop_path": "/qLAMT52DRM3vzqYtcRJ4hBAOYgd.jpg",
+    "popularity": 79.2643,
+    "vote_average": 7.136,
+    "vote_count": 638,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.294Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 25,
+  "fields": {
+    "tmdb_id": 1286185,
+    "title": "목수의 아들",
+    "original_title": "The Carpenter's Son",
+    "overview": "",
+    "release_date": "2025-11-13",
+    "poster_path": "/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg",
+    "backdrop_path": "/qFxULMQeFTdo2dcuviEdwks3CIO.jpg",
+    "popularity": 66.8598,
+    "vote_average": 5.091,
+    "vote_count": 22,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.296Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 26,
+  "fields": {
+    "tmdb_id": 1448560,
+    "title": "Wildcat",
+    "original_title": "Wildcat",
+    "overview": "",
+    "release_date": "2025-11-19",
+    "poster_path": "/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+    "backdrop_path": "/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
+    "popularity": 73.9512,
+    "vote_average": 6.2,
+    "vote_count": 48,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.297Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 27,
+  "fields": {
+    "tmdb_id": 967941,
+    "title": "위키드: 포 굿",
+    "original_title": "Wicked: For Good",
+    "overview": "전혀 다르지만 서로에게 가장 소중한 친구가 된 ‘엘파바’와 ‘글린다’. 쉬즈에서의 마법같았던 둘의 우정은 오즈의 마법사와 그를 둘러싼 비밀들을 알게 되면서 다른 길을 선택할 수밖에 없게 내몰린다. 사람들의 시선을 더 이상 두려워하지 않게 된 사악한 마녀 ‘엘파바’와 사람들의 사랑을 받으면서도 모든 걸 잃을까 두려운 착한 마녀 ‘글린다’. 서로 대척점에 서게 된 두 사람은 거대한 여정의 끝에서 운명을 영원히 바꿀 선택을 마주하게 된다.",
+    "release_date": "2025-11-19",
+    "poster_path": "/2QQHvIysfrRhOE5fpaKNlxIwUW4.jpg",
+    "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+    "popularity": 65.4264,
+    "vote_average": 6.745,
+    "vote_count": 463,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.298Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 28,
+  "fields": {
+    "tmdb_id": 1539104,
+    "title": "극장판 주술회전: 시부야사변 X 사멸회유",
+    "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+    "overview": "2018년 10월 31일 시부야 역 주변에 갑자기 ‘장막’이 내려지고, 다수의 일반인이 갇히게 된다. 그곳에 홀로 뛰어든 현대 최강의 주술사, 고죠 사토루. 그러나 그곳에는 고죠의 봉인을 꾀하는 주저사·주령들이 기다리고 있었다. 시부야에 집결하는 이타도리 유지를 비롯한 수많은 주술사들. 전례 없는 대규모 주술전 「시부야사변」이 시작된다—. 그리고 싸움은, 최악의 주술사 카모 노리토시가 꾸민 데스 게임 「사멸회유」로 이어진다. 「시부야사변」을 거쳐, 마굴로 변한 전국 10개의 결계(콜로니). 대혼란의 한가운데, 이타도리의 사형 집행인으로 특급 주술사 옷코츠 유타가 나타난다. 절망 속에서도 싸움을 계속하는 이타도리. 무정하게도 칼날을 겨누는 옷코츠. 가속해가는 저주의 혼돈. 같은 스승을 둔 이타도리와 옷코츠, 두 사람의 사투가 시작된다——.",
+    "release_date": "2025-11-07",
+    "poster_path": "/ifK2v7oQQrgqrmDu7sr1TgoAPT9.jpg",
+    "backdrop_path": "/eMBYlgFTHfZaTz96eJxlkeMsKo9.jpg",
+    "popularity": 65.9569,
+    "vote_average": 5.25,
+    "vote_count": 65,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.299Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 29,
+  "fields": {
+    "tmdb_id": 278,
+    "title": "쇼생크 탈출",
+    "original_title": "The Shawshank Redemption",
+    "overview": "촉망받는 은행 간부 앤디 듀프레인은 아내와 그녀의 정부를 살해했다는 누명을 쓴다. 주변의 증언과 살해 현장의 그럴듯한 증거들로 그는 종신형을 선고받고 악질범들만 수용한다는 지옥같은 교도소 쇼생크로 향한다. 인간 말종 쓰레기들만 모인 그곳에서 그는 이루 말할 수 없는 억압과 짐승보다 못한 취급을 당한다. 그러던 어느 날, 간수의 세금을 면제받게 해 준 덕분에 그는 일약 교도소의 비공식 회계사로 일하게 된다. 그 와중에 교도소 소장은 죄수들을 이리저리 부리면서 검은 돈을 긁어 모으고 앤디는 이 돈을 세탁하여 불려주면서 그의 돈을 관리하는데...",
+    "release_date": "1994-09-23",
+    "poster_path": "/qV9BQZdiM8foEzDz0Ag5hGWE5qM.jpg",
+    "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+    "popularity": 35.5204,
+    "vote_average": 8.714,
+    "vote_count": 29376,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.888Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 30,
+  "fields": {
+    "tmdb_id": 238,
+    "title": "대부",
+    "original_title": "The Godfather",
+    "overview": "시실리에서 이민온 뒤, 정치권까지 영향력을 미치는 거물로 자리잡은 돈 꼴레오네는 갖가지 고민을 호소하는 사람들의 문제를 해결해주며 대부라 불리운다. 한편 솔로소라는 인물은 꼴레오네가와 라이벌인 탓타리아 패밀리와 손잡고 새로운 마약 사업을 제안한다. 돈 꼴레오네가 마약 사업에 참여하지 않기로 하자, 돈 꼴레오네를 저격해 그는 중상을 입고 사경을 헤매게 된다. 그 뒤, 돈 꼴레오네의 아들 소니는 조직력을 총 동원해 다른 패밀리들과 피를 부르는 전쟁을 시작하는데... 가족의 사업과 상관없이 대학에 진학한 뒤 인텔리로 지내왔던 막내 아들 마이클은 아버지가 총격을 당한 뒤, 아버지를 구하기 위해 위험천만한 협상 자리에 나선다.",
+    "release_date": "1972-03-14",
+    "poster_path": "/1yvBkSv4ZLS1GohlmMDmdpSgfYo.jpg",
+    "backdrop_path": "/39rtAdg3yx6IDxRg0ZLXefv0aPY.jpg",
+    "popularity": 40.0605,
+    "vote_average": 8.685,
+    "vote_count": 22164,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.891Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 31,
+  "fields": {
+    "tmdb_id": 240,
+    "title": "대부 2",
+    "original_title": "The Godfather Part II",
+    "overview": "아버지의 장례식 도중에 맏아들 파올로가 총에 맞아 죽고, 비토(로버트 드니로)는 겨우 도망쳐 미국으로 건너온다. 대부로 성장한 후 비토는 다시 치치오를 찾아 복수를 한다. 새롭게 등장한 젊은 대부 마이클(알 파치노)은 본거지를 라스베가스로 옮기고 가족의 사업을 가능한 합법적인 것으로 바꾸려고 애쓴다. 그런 과중 중에 자신을 제거하려는 음모를 알게되고 그는 냉혹하고 신속하게 반대파들을 제거, 조직을 더욱 확대해 나간다. 이를 위해 마이클은 배신한 형마저 죽이고, 일 때문에 아내와 헤어지는 등 인간적으로는 계속 외로워져 가는데...",
+    "release_date": "1974-12-20",
+    "poster_path": "/35RGDgySfINL9V2e6lkDECQ0hRa.jpg",
+    "backdrop_path": "/14icRpwdgpHEHxt7Cn5hr2RQEsF.jpg",
+    "popularity": 15.4061,
+    "vote_average": 8.571,
+    "vote_count": 13398,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.893Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 32,
+  "fields": {
+    "tmdb_id": 424,
+    "title": "쉰들러 리스트",
+    "original_title": "Schindler's List",
+    "overview": "2차 세계대전 당시 독일군이 점령한 폴란드. 시류에 맞춰 자신의 성공을 추구하는 기회주의자 쉰들러는 유태인이 경영하는 그릇 공장을 인수한다. 그는 공장을 인수하기 위해 나찌 당원이 되고 독일군에게 뇌물을 바치는 등 갖은 방법을 동원한다. 그러나 냉혹한 기회주의자였던 쉰들러는 유태인 회계사인 스턴과 친분을 맺으면서 냉혹한 유태인 학살에 대한 양심의 소리를 듣기 시작한다. 마침내 그는 강제 수용소로 끌려가 죽음을 맞게될 유태인들을 구해내기로 결심하고, 독일군 장교에게 빼내는 사람 숫자대로 뇌물을 주는 방법으로 유태인들을 구해내려는 계획을 세우는데...",
+    "release_date": "1993-12-15",
+    "poster_path": "/oyyUcGwLX7LTFS1pQbLrQpyzIyt.jpg",
+    "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+    "popularity": 14.1582,
+    "vote_average": 8.566,
+    "vote_count": 16914,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.895Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 33,
+  "fields": {
+    "tmdb_id": 389,
+    "title": "12명의 성난 사람들",
+    "original_title": "12 Angry Men",
+    "overview": "뉴욕시의 법정에 아버지를 칼로 찌른 한 소년의 살인혐의를 두고, 12인의 배심원들은 만장일치 합의를 통해 소년의 유무죄 여부를 가려줄 것을 요구받는다. 판사는 유죄일 경우 이 소년은 사형이 불가피하다는 것을 이들에게 미리 일러둔다.  배심원 방에 모인 이들은 투표를 통해 유무죄 여부를 가리기로 한다. 사람들이 전부 소년이 유죄로 판단하는 가운데, 오직 한 배심원만이 소년이 무죄라고 주장하는데...",
+    "release_date": "1957-04-10",
+    "poster_path": "/xzh6Rq9cKnE1M309PzC5S5QWF9S.jpg",
+    "backdrop_path": "/w4bTBXcqXc2TUyS5Fc4h67uWbPn.jpg",
+    "popularity": 11.1575,
+    "vote_average": 8.548,
+    "vote_count": 9586,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.896Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 34,
+  "fields": {
+    "tmdb_id": 129,
+    "title": "센과 치히로의 행방불명",
+    "original_title": "千と千尋の神隠し",
+    "overview": "평범한 열 살 짜리 소녀 치히로 식구는 이사 가던 중 길을 잘못 들어 낡은 터널을 지나가게 된다. 터널 저편엔 폐허가 된 놀이공원이 있었고 그곳엔 이상한 기운이 흘렀다. 인기척 하나 없는 이 마을의 낯선 분위기에 불길한 기운을 느낀 치히로는 부모님에게 돌아가자고 조르지만 부모님은 호기심에 들떠 마을 곳곳을 돌아다니기 시작한다. 어느 음식점에 도착한 치히로의 부모님은 그 곳에 차려진 음식들을 보고 즐거워하며 허겁지겁 먹어대다가 돼지로 변해버린다. 겁에 질려 당황하는 치히로에게 낯선 소년 하쿠가 나타나 빨리 이곳을 나가라고 소리치는데...",
+    "release_date": "2001-07-20",
+    "poster_path": "/aZuBfbR0PnCb2up7lqHDsgJlLjs.jpg",
+    "backdrop_path": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+    "popularity": 25.3457,
+    "vote_average": 8.533,
+    "vote_count": 17719,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.897Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 35,
+  "fields": {
+    "tmdb_id": 155,
+    "title": "다크 나이트",
+    "original_title": "The Dark Knight",
+    "overview": "범죄와 부정부패를 제거하여 고담시를 지키려는 배트맨. 그는 짐 고든 형사와 패기 넘치는 고담시 지방 검사 하비 덴트와 함께 도시를 범죄 조직으로부터 영원히 구원하고자 한다. 세 명의 의기투합으로 위기에 처한 악당들이 모인 자리에 보라색 양복을 입고 얼굴에 짙게 화장을 한 괴이한 존재가 나타나 배트맨을 죽이자는 사상 초유의 제안을 한다. 그는 바로 어떠한 룰도, 목적도 없는 사상 최악의 악당 미치광이 살인광대 조커. 배트맨을 죽이고 고담시를 끝장내버리기 위한 조커의 광기 어린 행각에 도시는 혼란에 빠지는데...",
+    "release_date": "2008-07-16",
+    "poster_path": "/f6dNinWX8rBM79JXKcShkfSh2oA.jpg",
+    "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+    "popularity": 32.7043,
+    "vote_average": 8.524,
+    "vote_count": 34840,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.899Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 36,
+  "fields": {
+    "tmdb_id": 19404,
+    "title": "용감한 자가 신부를 데려가리",
+    "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+    "overview": "영국에서 유학중인 라즈(샤룩 칸)와 인도 처녀 심란(까졸).  심란은 부모님이 정해주신 약혼자가 있는데 약혼을 앞두고 친구들과 유럽 여행을 떠나게 된다.  여행 중 우연히 만남 샤룩과 까졸. 두 남녀의 연속된 우연과 좌충우돌 사랑 만들기.  그렇게 사랑하게 된 그들이지만 까졸은 약혼자가 있는 몸. 인도로 돌아가게 된다.  샤룩 또한 그녀를 못 잊어 인도로 뒤 따라 들어가지만 엄격한 까졸의 부모를 설득하기가 힘이 든다. 도망가자는 까졸의 제안을 거부하고 샤룩은 끝내 그녀의 부모님의 허락을 얻어 내기 위해 고군분투한다.",
+    "release_date": "1995-10-20",
+    "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+    "backdrop_path": "/zQDFHYNVVVp9OAYSixYAG1SyX1l.jpg",
+    "popularity": 6.7595,
+    "vote_average": 8.513,
+    "vote_count": 4522,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.900Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 37,
+  "fields": {
+    "tmdb_id": 497,
+    "title": "그린 마일",
+    "original_title": "The Green Mile",
+    "overview": "미국 루이지애나의 콜드 마운틴 교도소. 폴은 사형수 감방의 간수장으로 일하고 있다. 그의 일은 사형수들을 감독하고, 그린 마일이라 불리는 초록색 복도를 거쳐 그들을 사형 집행장까지 안내하는 것. 폴은 그들이 죽음을 맞이하는 순간까지 평화롭게 지낼 수 있도록 최선을 다한다. 어느 날 존 커피라는 사형수가 이송되어 온다. 그는 쌍둥이 여자아이를 살해한 흉악범. 하지만 순진한 눈망울에 겁을 잔뜩 집어먹은 그의 모습에 폴은 당혹감을 느낀다. 게다가 그는 초자연적 능력으로 폴의 지병을 깨끗하게 치료해주기까지 한다. 존을 전기 의자로 데려가야 할 날이 다가오면서 폴은 그가 무죄라는 확신을 갖게 되는데...",
+    "release_date": "1999-12-10",
+    "poster_path": "/yuSpRhrTIJa5JN8oESrfD2bndp1.jpg",
+    "backdrop_path": "/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
+    "popularity": 15.2285,
+    "vote_average": 8.503,
+    "vote_count": 18620,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.902Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 38,
+  "fields": {
+    "tmdb_id": 496243,
+    "title": "기생충",
+    "original_title": "기생충",
+    "overview": "전원 백수로 살 길 막막하지만 사이는 좋은 기택 가족. 장남 기우에게 명문대생 친구가 연결시켜 준 고액 과외 자리는 모처럼 싹튼 고정수입의 희망이다. 온 가족의 도움과 기대 속에 박 사장 집으로 향하는 기우. 글로벌 IT기업의 CEO인 박 사장의 저택에 도착하자 젊고 아름다운 사모님 연교와 가정부 문광이 기우를 맞이한다. 큰 문제 없이 박 사장의 딸 다혜의 과외를 시작한 기우. 그러나 이렇게 시작된 두 가족의 만남 뒤로, 걷잡을 수 없는 사건이 기다리고  있는데.....",
+    "release_date": "2019-05-30",
+    "poster_path": "/mSi0gskYpmf1FbXngM37s2HppXh.jpg",
+    "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+    "popularity": 20.6268,
+    "vote_average": 8.496,
+    "vote_count": 19817,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.904Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 39,
+  "fields": {
+    "tmdb_id": 122,
+    "title": "반지의 제왕: 왕의 귀환",
+    "original_title": "The Lord of the Rings: The Return of the King",
+    "overview": "사우론이 인간들의 마지막 요새인 곤도르를 향해 야욕을 드러내고 있는 한편, 아라곤은 쇠락해가고 있는 곤도르의 재건을 위해 왕위 계승을 신중하게 결정지어야만 하는 상황. 이제 중간대륙의 미래는 그의 어깨에 달려있는 것. 사우론이 이끄는 어둠의 군대와의 마지막 전투를 위해 간달프는 곤도르에 흩어져 있던 병사들을 모으고, 로한의 왕 세오덴에게 도움을 받기도 하지만 사우론의 군대에 비하면 열세를 면치 못한다. 그러나 그들은 중간대륙을 사우론의 야욕으로부터 지키려는 사명감과, 마지막 반지 운반자에게 임무를 끝낼 기회를 주기 위해 어둠의 군대를 향해 돌진하게 되는데...",
+    "release_date": "2003-12-17",
+    "poster_path": "/n8BPIRqvj1SdTRND828ANXhmSng.jpg",
+    "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+    "popularity": 22.8603,
+    "vote_average": 8.491,
+    "vote_count": 25748,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.905Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 40,
+  "fields": {
+    "tmdb_id": 680,
+    "title": "펄프 픽션",
+    "original_title": "Pulp Fiction",
+    "overview": "펌프킨와 허니 버니가 레스토랑에서 강도 행각을 벌이기 시작한다. 빈센트와 그 동료 쥴스는 두목의 금가방을 찾기 위해 다른 건달이 사는 아파트를 찾아간다. 마르셀러스는 부치에게 돈을 주며 상대 선수에게 져 주라고 하지만 부치는 상대 선수를 때려 눕히고 도망치다, 어릴 때 아버지에게 물려받은 시계를 찾기 위해 아파트로 향한다. 아무런 상관 없이 보이는 이 사건들이 서로 얽히고 섥히면서 예상치 못한 인과관계가 만들어지는데...",
+    "release_date": "1994-09-10",
+    "poster_path": "/6lXRHGoEbnnBUKsuqpL9JxD4DzT.jpg",
+    "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "popularity": 27.0779,
+    "vote_average": 8.487,
+    "vote_count": 29396,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.906Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 41,
+  "fields": {
+    "tmdb_id": 372058,
+    "title": "너의 이름은",
+    "original_title": "君の名は。",
+    "overview": "시골에 사는 소녀 미츠하(가미시라이시 모네)는 어느 날 잠에서 깬 후 자신의 몸이 남자로 바뀐 걸 알게 된다.  같은 시간, 도쿄에 사는 소년 타키(가미키 류노스케) 역시 이 기이한 상황을 겪고 있다.  낯선 가족, 낯선 친구들, 낯선 풍경들...  서로에게 이어진 끈을 알게 된 둘은 둘만의 규칙을 정하고 점차 상황을 받아들이기 시작한다.  서로에게 남긴 메모를 확인하며  점점 친구가 되어가는 타키와 미츠하.  언제부턴가 더 이상 몸이 바뀌지 않자  자신들이 특별하게 이어져있었음을 깨달은  타키는 미츠하를 만나러 가는데...",
+    "release_date": "2016-08-26",
+    "poster_path": "/2DJCufz3Oa703PbLjNX1pM6MCG2.jpg",
+    "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+    "popularity": 23.7624,
+    "vote_average": 8.479,
+    "vote_count": 12161,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.907Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 42,
+  "fields": {
+    "tmdb_id": 429,
+    "title": "석양의 무법자",
+    "original_title": "Il buono, il brutto, il cattivo",
+    "overview": "미국의 남북전쟁이 한창인 때, 블론디는 멕시코인 총잡이 투코와 함께 동업 중이다. 블론디는 현상범 투코를 잡아 현상금을 받고, 투코가 교수형을 당하는 순간 구해주는 역할. 한편 세텐자라 불리우는 범죄자는 엄청나 돈이 묻힌 비밀장소를 추적 중이다. 그런데, 투코와 실랑이를 벌이던 블론디는 돈이 묻힌 장소를 죽어가는 사람에게 듣게 되고, 결국 둘은 돈을 찾아 나서는데...",
+    "release_date": "1966-12-22",
+    "poster_path": "/s7qPuoj4liolAtmx9vcL6AyaZzR.jpg",
+    "backdrop_path": "/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+    "popularity": 13.4001,
+    "vote_average": 8.465,
+    "vote_count": 9292,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.908Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 43,
+  "fields": {
+    "tmdb_id": 157336,
+    "title": "인터스텔라",
+    "original_title": "Interstellar",
+    "overview": "세계 각국의 정부와 경제가 완전히 붕괴된 미래가 다가온다. 지난 20세기에 범한 잘못이 전 세계적인 식량 부족을 불러왔고, NASA도 해체되었다. 나사 소속 우주비행사였던 쿠퍼는 지구에 몰아친 식량난으로 옥수수나 키우며 살고 있다. 거센 황사가 몰아친 어느 날 알 수 없는 힘에 이끌려 딸과 함께 도착한 곳은 인류가 이주할 행성을 찾는 나사의 비밀본부. 이 때 시공간에 불가사의한 틈이 열리고, 이 곳을 탐험해 인류를 구해야 하는 임무를 위해 쿠퍼는 만류하는 딸을 뒤로한 채 우주선에 탑승하는데...",
+    "release_date": "2014-11-05",
+    "poster_path": "/evoEi8SBSvIIEveM3V6nCJ6vKj8.jpg",
+    "backdrop_path": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+    "popularity": 46.6058,
+    "vote_average": 8.464,
+    "vote_count": 38422,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.909Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 44,
+  "fields": {
+    "tmdb_id": 13,
+    "title": "포레스트 검프",
+    "original_title": "Forrest Gump",
+    "overview": "불편한 다리, 남들보다 조금 떨어지는 지능을 가진 포레스트 검프는 헌신적인 어머니의 보살핌과 첫사랑 제니와의 만남으로 편견과 괴롭힘 속에서도 따뜻한 마음을 지니고 성장한다. 또래들의 괴롭힘을 피해 도망치던 포레스트는 누구보다 빠르게 달릴 수 있는 자신의 재능을 깨닫는다. 그의 재능을 알아 본 대학에서 그를 미식축구 선수로 발탁하고, 졸업 후에도 뛰어난 신체능력으로 군에 들어가 무공훈장을 수여받는 등 탄탄한 인생 가도에 오르게 된 포레스트. 하지만 어머니가 병에 걸려 죽음을 맞이하고, 첫사랑 제니 역시 그의 곁을 떠나가며 다시 한 번 인생의 전환점을 맞이하게 되는데...",
+    "release_date": "1994-06-23",
+    "poster_path": "/xdJxoq0dtkchOkUz5UVKuxn7a2V.jpg",
+    "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+    "popularity": 23.3046,
+    "vote_average": 8.462,
+    "vote_count": 28959,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.911Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 45,
+  "fields": {
+    "tmdb_id": 769,
+    "title": "좋은 친구들",
+    "original_title": "GoodFellas",
+    "overview": "아일랜드계 이탈리아인 헨리 힐와 토미는 13살에 마피아에 입문해 지미와 함께 트럭이나 공항 화물을 훔치는 일을 한다. 결혼 후에도 마피아 생활을 계속하는 헨리는 이제 조직에서도 안정된 위치와 경제적 여유를 갖는다.  어느 날 헨리와 지미는 공항터미널 사건을 모의해 현금 6백만 달러라는 엄청한 돈을 훔친다. 이 사건을 은폐하기 위해 혈안이 된 지미는 모의에 참여했던 사람들을 죽이고, 토미는 마피아 조직에 가담했다가 살해당한다. 엎친데 덮친격으로 헨리마저 마약거래로 경찰서에 잡혀 들어가는데...",
+    "release_date": "1990-09-12",
+    "poster_path": "/zF9hSBS1t7PVFLo01GrJ3OjGi67.jpg",
+    "backdrop_path": "/7TF4p86ZafnxFuNqWdhpHXFO244.jpg",
+    "popularity": 16.2473,
+    "vote_average": 8.453,
+    "vote_count": 13835,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.912Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 46,
+  "fields": {
+    "tmdb_id": 346,
+    "title": "7인의 사무라이",
+    "original_title": "七人の侍",
+    "overview": "일본의 전국시대. 주민들은 황폐한 땅에서 어렵게 수확한 식량으로 한해 한해를 넘기는 빈촌에 살고 있다. 이 빈촌엔 보리 수확이 끝날 무렵이면 어김없이 산적들이 찾아와 모든 식량을 모조리 약탈해 간다. 싸워도 애원해도 소용이 없었다. 가만히 있을 수만은 없던 촌장의 결단으로 사무라이들을 모집하는데, 이들은 풍부한 전쟁 경험을 가진 시마다 칸베에를 포함한 7명이었다. 시마다의 지휘하에 마을은 방위태세를 갖추고 전투훈련도 시작한다. 이윽고 산적들의 공격이 시작되어 치열한 사투가 벌어진다.",
+    "release_date": "1954-04-26",
+    "poster_path": "/6Y8Q5t79ybiDA7XubUTneqZhjA3.jpg",
+    "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+    "popularity": 6.7207,
+    "vote_average": 8.451,
+    "vote_count": 4048,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.913Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 47,
+  "fields": {
+    "tmdb_id": 12477,
+    "title": "반딧불이의 묘",
+    "original_title": "火垂るの墓",
+    "overview": "2차 세계대전, 일본의 한 마을에 폭격기로 인한 대공습이 일어난다. 마을이 화염으로 휩싸이자, 14살인 세이타는 부모님과 따로 만나기로 약속한 채 4살짜리 여동생 세츠코를 업고 피신한다. 결국 집과 어머니를 잃고 먼 친척아주머니의 집으로 향하는 세이타와 세츠코. 힘들고 어려운 환경에서도 오빠 세이타는 천진하고 착한 여동생 세츠코를 보면서 희망과 용기를 잃지 않는다. 하지만 시간이 지날수록 친척아주머니의 남매에 대한 냉대는 더욱 심해지고, 세이타는 어머니가 남겨주었던 마지막 여비를 챙겨 세츠코와 함께 산 속에 있는 방공호로 거처를 옮긴다. 두 남매는 산 속 동굴에서 반딧불이를 잡아 불을 밝히고, 물고기와 개구리를 잡아먹으며 살아가는데...",
+    "release_date": "1988-04-16",
+    "poster_path": "/uN0x0G4uuRjFJIFN57iYihBV2Qh.jpg",
+    "backdrop_path": "/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
+    "popularity": 0.0096,
+    "vote_average": 8.446,
+    "vote_count": 6233,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.913Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 48,
+  "fields": {
+    "tmdb_id": 637,
+    "title": "인생은 아름다워",
+    "original_title": "La vita è bella",
+    "overview": "로마에 갓 상경한 시골 총각 귀도는 운명처럼 만난 여인 도라에게 첫눈에 반한다. 넘치는 재치와 유머로 약혼자가 있던 그녀를 사로잡은 귀도는 가정을 꾸리며 분신과도 같은 아들 조수아를 얻는다. 조수아의 다섯 살 생일, 갑작스레 들이닥친 군인들은 귀도와 조수아를 수용소 행 기차에 실어버리고, 소식을 들은 도라 역시 기차에 따라 오른다. 귀도는 아들을 달래기 위해 무자비한 수용소 생활을 단체게임이라 속이고 1,000점을 따는 우승자에게는 진짜 탱크가 주어진다고 말한다. 하루하루가 지나 어느덧 전쟁이 끝났다는 말을 들은 귀도는 조수아를 창고에 숨겨둔 채 아내를 찾아 나서는데...",
+    "release_date": "1997-12-20",
+    "poster_path": "/iyQ8pmCpmnPrGtaHMfmSvQLv8Fy.jpg",
+    "backdrop_path": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+    "popularity": 9.4954,
+    "vote_average": 8.44,
+    "vote_count": 13674,
+    "runtime": null,
+    "updated_at": "2025-12-20T15:00:47.914Z"
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 20,
+  "fields": {
+    "movie": 7,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 21,
+  "fields": {
+    "movie": 7,
+    "genre": 15
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 22,
+  "fields": {
+    "movie": 8,
+    "genre": 2
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 23,
+  "fields": {
+    "movie": 8,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 24,
+  "fields": {
+    "movie": 8,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 25,
+  "fields": {
+    "movie": 8,
+    "genre": 15
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 26,
+  "fields": {
+    "movie": 9,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 27,
+  "fields": {
+    "movie": 9,
+    "genre": 4
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 28,
+  "fields": {
+    "movie": 9,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 29,
+  "fields": {
+    "movie": 9,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 33,
+  "fields": {
+    "movie": 11,
+    "genre": 2
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 34,
+  "fields": {
+    "movie": 11,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 35,
+  "fields": {
+    "movie": 11,
+    "genre": 15
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 38,
+  "fields": {
+    "movie": 13,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 39,
+  "fields": {
+    "movie": 13,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 40,
+  "fields": {
+    "movie": 13,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 44,
+  "fields": {
+    "movie": 15,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 45,
+  "fields": {
+    "movie": 15,
+    "genre": 15
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 53,
+  "fields": {
+    "movie": 18,
+    "genre": 9
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 54,
+  "fields": {
+    "movie": 18,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 55,
+  "fields": {
+    "movie": 18,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 56,
+  "fields": {
+    "movie": 19,
+    "genre": 2
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 57,
+  "fields": {
+    "movie": 19,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 58,
+  "fields": {
+    "movie": 19,
+    "genre": 15
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 61,
+  "fields": {
+    "movie": 1,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 62,
+  "fields": {
+    "movie": 1,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 63,
+  "fields": {
+    "movie": 1,
+    "genre": 13
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 64,
+  "fields": {
+    "movie": 2,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 65,
+  "fields": {
+    "movie": 2,
+    "genre": 18
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 66,
+  "fields": {
+    "movie": 3,
+    "genre": 2
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 67,
+  "fields": {
+    "movie": 3,
+    "genre": 9
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 68,
+  "fields": {
+    "movie": 3,
+    "genre": 15
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 69,
+  "fields": {
+    "movie": 4,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 70,
+  "fields": {
+    "movie": 4,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 71,
+  "fields": {
+    "movie": 4,
+    "genre": 15
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 72,
+  "fields": {
+    "movie": 5,
+    "genre": 2
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 73,
+  "fields": {
+    "movie": 5,
+    "genre": 3
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 74,
+  "fields": {
+    "movie": 5,
+    "genre": 4
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 75,
+  "fields": {
+    "movie": 5,
+    "genre": 13
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 76,
+  "fields": {
+    "movie": 5,
+    "genre": 8
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 77,
+  "fields": {
+    "movie": 6,
+    "genre": 4
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 78,
+  "fields": {
+    "movie": 6,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 79,
+  "fields": {
+    "movie": 6,
+    "genre": 13
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 80,
+  "fields": {
+    "movie": 10,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 81,
+  "fields": {
+    "movie": 10,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 82,
+  "fields": {
+    "movie": 10,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 83,
+  "fields": {
+    "movie": 12,
+    "genre": 11
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 84,
+  "fields": {
+    "movie": 12,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 85,
+  "fields": {
+    "movie": 14,
+    "genre": 9
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 86,
+  "fields": {
+    "movie": 14,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 87,
+  "fields": {
+    "movie": 14,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 88,
+  "fields": {
+    "movie": 16,
+    "genre": 9
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 89,
+  "fields": {
+    "movie": 16,
+    "genre": 3
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 90,
+  "fields": {
+    "movie": 16,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 91,
+  "fields": {
+    "movie": 16,
+    "genre": 14
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 92,
+  "fields": {
+    "movie": 17,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 93,
+  "fields": {
+    "movie": 17,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 94,
+  "fields": {
+    "movie": 17,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 95,
+  "fields": {
+    "movie": 20,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 96,
+  "fields": {
+    "movie": 20,
+    "genre": 14
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 97,
+  "fields": {
+    "movie": 21,
+    "genre": 11
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 98,
+  "fields": {
+    "movie": 21,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 99,
+  "fields": {
+    "movie": 22,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 100,
+  "fields": {
+    "movie": 22,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 101,
+  "fields": {
+    "movie": 23,
+    "genre": 9
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 102,
+  "fields": {
+    "movie": 23,
+    "genre": 3
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 103,
+  "fields": {
+    "movie": 23,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 104,
+  "fields": {
+    "movie": 24,
+    "genre": 9
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 105,
+  "fields": {
+    "movie": 24,
+    "genre": 11
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 106,
+  "fields": {
+    "movie": 24,
+    "genre": 14
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 107,
+  "fields": {
+    "movie": 25,
+    "genre": 11
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 108,
+  "fields": {
+    "movie": 26,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 109,
+  "fields": {
+    "movie": 26,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 110,
+  "fields": {
+    "movie": 26,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 111,
+  "fields": {
+    "movie": 27,
+    "genre": 2
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 112,
+  "fields": {
+    "movie": 27,
+    "genre": 9
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 113,
+  "fields": {
+    "movie": 27,
+    "genre": 14
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 114,
+  "fields": {
+    "movie": 28,
+    "genre": 3
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 115,
+  "fields": {
+    "movie": 28,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 116,
+  "fields": {
+    "movie": 29,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 117,
+  "fields": {
+    "movie": 29,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 118,
+  "fields": {
+    "movie": 30,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 119,
+  "fields": {
+    "movie": 30,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 120,
+  "fields": {
+    "movie": 31,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 121,
+  "fields": {
+    "movie": 31,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 122,
+  "fields": {
+    "movie": 32,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 123,
+  "fields": {
+    "movie": 32,
+    "genre": 10
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 124,
+  "fields": {
+    "movie": 32,
+    "genre": 18
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 125,
+  "fields": {
+    "movie": 33,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 126,
+  "fields": {
+    "movie": 34,
+    "genre": 9
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 127,
+  "fields": {
+    "movie": 34,
+    "genre": 3
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 128,
+  "fields": {
+    "movie": 34,
+    "genre": 8
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 129,
+  "fields": {
+    "movie": 35,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 130,
+  "fields": {
+    "movie": 35,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 131,
+  "fields": {
+    "movie": 35,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 132,
+  "fields": {
+    "movie": 35,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 133,
+  "fields": {
+    "movie": 36,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 134,
+  "fields": {
+    "movie": 36,
+    "genre": 4
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 135,
+  "fields": {
+    "movie": 36,
+    "genre": 14
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 136,
+  "fields": {
+    "movie": 37,
+    "genre": 9
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 137,
+  "fields": {
+    "movie": 37,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 138,
+  "fields": {
+    "movie": 37,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 139,
+  "fields": {
+    "movie": 38,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 140,
+  "fields": {
+    "movie": 38,
+    "genre": 4
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 141,
+  "fields": {
+    "movie": 38,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 142,
+  "fields": {
+    "movie": 39,
+    "genre": 2
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 143,
+  "fields": {
+    "movie": 39,
+    "genre": 9
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 144,
+  "fields": {
+    "movie": 39,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 145,
+  "fields": {
+    "movie": 40,
+    "genre": 4
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 146,
+  "fields": {
+    "movie": 40,
+    "genre": 17
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 147,
+  "fields": {
+    "movie": 40,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 148,
+  "fields": {
+    "movie": 41,
+    "genre": 3
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 149,
+  "fields": {
+    "movie": 41,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 150,
+  "fields": {
+    "movie": 41,
+    "genre": 14
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 151,
+  "fields": {
+    "movie": 42,
+    "genre": 19
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 152,
+  "fields": {
+    "movie": 43,
+    "genre": 2
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 153,
+  "fields": {
+    "movie": 43,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 154,
+  "fields": {
+    "movie": 43,
+    "genre": 15
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 155,
+  "fields": {
+    "movie": 44,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 156,
+  "fields": {
+    "movie": 44,
+    "genre": 4
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 157,
+  "fields": {
+    "movie": 44,
+    "genre": 14
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 158,
+  "fields": {
+    "movie": 45,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 159,
+  "fields": {
+    "movie": 45,
+    "genre": 5
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 160,
+  "fields": {
+    "movie": 46,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 161,
+  "fields": {
+    "movie": 46,
+    "genre": 1
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 162,
+  "fields": {
+    "movie": 47,
+    "genre": 3
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 163,
+  "fields": {
+    "movie": 47,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 164,
+  "fields": {
+    "movie": 47,
+    "genre": 18
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 165,
+  "fields": {
+    "movie": 48,
+    "genre": 7
+  }
+},
+{
+  "model": "movies.moviegenre",
+  "pk": 166,
+  "fields": {
+    "movie": 48,
+    "genre": 4
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 1,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 1,
+    "rank": 1,
+    "synced_at": "2025-12-20T15:00:46.665Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 2,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 2,
+    "rank": 2,
+    "synced_at": "2025-12-20T15:00:46.668Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 3,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 3,
+    "rank": 3,
+    "synced_at": "2025-12-20T15:00:46.670Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 4,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 4,
+    "rank": 4,
+    "synced_at": "2025-12-20T15:00:46.671Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 5,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 5,
+    "rank": 5,
+    "synced_at": "2025-12-20T15:00:46.673Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 6,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 6,
+    "rank": 6,
+    "synced_at": "2025-12-20T15:00:46.675Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 7,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 7,
+    "rank": 7,
+    "synced_at": "2025-12-20T15:00:46.677Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 8,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 8,
+    "rank": 8,
+    "synced_at": "2025-12-20T15:00:46.678Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 9,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 9,
+    "rank": 9,
+    "synced_at": "2025-12-20T15:00:46.680Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 10,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 10,
+    "rank": 10,
+    "synced_at": "2025-12-20T15:00:46.681Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 11,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 11,
+    "rank": 11,
+    "synced_at": "2025-12-20T15:00:46.682Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 12,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 12,
+    "rank": 12,
+    "synced_at": "2025-12-20T15:00:46.683Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 13,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 13,
+    "rank": 13,
+    "synced_at": "2025-12-20T15:00:46.685Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 14,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 14,
+    "rank": 14,
+    "synced_at": "2025-12-20T15:00:46.686Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 15,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 15,
+    "rank": 15,
+    "synced_at": "2025-12-20T15:00:46.687Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 16,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 16,
+    "rank": 16,
+    "synced_at": "2025-12-20T15:00:46.688Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 17,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 17,
+    "rank": 17,
+    "synced_at": "2025-12-20T15:00:46.690Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 18,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 18,
+    "rank": 18,
+    "synced_at": "2025-12-20T15:00:46.691Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 19,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 19,
+    "rank": 19,
+    "synced_at": "2025-12-20T15:00:46.692Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 20,
+  "fields": {
+    "section": "POPULAR",
+    "movie": 20,
+    "rank": 20,
+    "synced_at": "2025-12-20T15:00:46.693Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 21,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 1,
+    "rank": 1,
+    "synced_at": "2025-12-20T15:00:47.275Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 22,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 2,
+    "rank": 2,
+    "synced_at": "2025-12-20T15:00:47.276Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 23,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 3,
+    "rank": 3,
+    "synced_at": "2025-12-20T15:00:47.279Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 24,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 4,
+    "rank": 4,
+    "synced_at": "2025-12-20T15:00:47.281Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 25,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 5,
+    "rank": 5,
+    "synced_at": "2025-12-20T15:00:47.282Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 26,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 6,
+    "rank": 6,
+    "synced_at": "2025-12-20T15:00:47.284Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 27,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 10,
+    "rank": 7,
+    "synced_at": "2025-12-20T15:00:47.285Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 28,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 12,
+    "rank": 8,
+    "synced_at": "2025-12-20T15:00:47.286Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 29,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 14,
+    "rank": 9,
+    "synced_at": "2025-12-20T15:00:47.287Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 30,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 16,
+    "rank": 10,
+    "synced_at": "2025-12-20T15:00:47.289Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 31,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 17,
+    "rank": 11,
+    "synced_at": "2025-12-20T15:00:47.290Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 32,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 20,
+    "rank": 12,
+    "synced_at": "2025-12-20T15:00:47.291Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 33,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 21,
+    "rank": 13,
+    "synced_at": "2025-12-20T15:00:47.292Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 34,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 22,
+    "rank": 14,
+    "synced_at": "2025-12-20T15:00:47.293Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 35,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 23,
+    "rank": 15,
+    "synced_at": "2025-12-20T15:00:47.294Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 36,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 24,
+    "rank": 16,
+    "synced_at": "2025-12-20T15:00:47.295Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 37,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 25,
+    "rank": 17,
+    "synced_at": "2025-12-20T15:00:47.296Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 38,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 26,
+    "rank": 18,
+    "synced_at": "2025-12-20T15:00:47.297Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 39,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 27,
+    "rank": 19,
+    "synced_at": "2025-12-20T15:00:47.298Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 40,
+  "fields": {
+    "section": "NOW_PLAYING",
+    "movie": 28,
+    "rank": 20,
+    "synced_at": "2025-12-20T15:00:47.299Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 41,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 29,
+    "rank": 1,
+    "synced_at": "2025-12-20T15:00:47.890Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 42,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 30,
+    "rank": 2,
+    "synced_at": "2025-12-20T15:00:47.892Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 43,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 31,
+    "rank": 3,
+    "synced_at": "2025-12-20T15:00:47.894Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 44,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 32,
+    "rank": 4,
+    "synced_at": "2025-12-20T15:00:47.896Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 45,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 33,
+    "rank": 5,
+    "synced_at": "2025-12-20T15:00:47.897Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 46,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 34,
+    "rank": 6,
+    "synced_at": "2025-12-20T15:00:47.898Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 47,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 35,
+    "rank": 7,
+    "synced_at": "2025-12-20T15:00:47.900Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 48,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 36,
+    "rank": 8,
+    "synced_at": "2025-12-20T15:00:47.902Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 49,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 37,
+    "rank": 9,
+    "synced_at": "2025-12-20T15:00:47.903Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 50,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 38,
+    "rank": 10,
+    "synced_at": "2025-12-20T15:00:47.905Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 51,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 39,
+    "rank": 11,
+    "synced_at": "2025-12-20T15:00:47.906Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 52,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 40,
+    "rank": 12,
+    "synced_at": "2025-12-20T15:00:47.907Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 53,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 41,
+    "rank": 13,
+    "synced_at": "2025-12-20T15:00:47.908Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 54,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 42,
+    "rank": 14,
+    "synced_at": "2025-12-20T15:00:47.909Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 55,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 43,
+    "rank": 15,
+    "synced_at": "2025-12-20T15:00:47.910Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 56,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 44,
+    "rank": 16,
+    "synced_at": "2025-12-20T15:00:47.911Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 57,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 45,
+    "rank": 17,
+    "synced_at": "2025-12-20T15:00:47.912Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 58,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 46,
+    "rank": 18,
+    "synced_at": "2025-12-20T15:00:47.913Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 59,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 47,
+    "rank": 19,
+    "synced_at": "2025-12-20T15:00:47.914Z"
+  }
+},
+{
+  "model": "movies.homesectionentry",
+  "pk": 60,
+  "fields": {
+    "section": "TOP_RATED",
+    "movie": 48,
+    "rank": 20,
+    "synced_at": "2025-12-20T15:00:47.915Z"
+  }
+}
+]

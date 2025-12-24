@@ -1,0 +1,54 @@
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Python / Django
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# venv
+venv/
+.venv/
+env/
+ENV/
+
+# Django
+*.log
+db.sqlite3-journal
+media/
+staticfiles/
+
+# dotenv (실키/키)
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# =========================
+# Node / Vite / Vue
+# =========================
+node_modules/
+dist/
+*.local
+
+# dotenv
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# =========================
+# Cache
+# =========================
+.cache/
+.vite/

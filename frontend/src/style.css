@@ -1,0 +1,224 @@
+/* frontend/src/style.css */
+
+:root {
+  /* 0. 기본(화이트) 테마 */
+  --bg: #ffffff;
+  --text: #111111;
+  --muted: #6b7280;
+  --card: #ffffff;
+  --border: #e5e7eb;
+  --input-bg: #f9fafb;
+
+  --primary: #111111;
+  --primary-weak: #f3f4f6;
+
+  /* 네비바 전용 변수 (투명도 50%) */
+  --nav-bg: rgba(255, 255, 255, 0.5); 
+  --nav-text: #444444;
+  --nav-border: rgba(0, 0, 0, 0.1);
+
+  --shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+}
+
+/* 1. blackred 테마 (강렬한 레드 포인트) */
+:root[data-theme="blackred"] {
+  --bg: #0b0b0f;
+  --text: #f9fafb;
+  --muted: #b6bcc6;
+  --card: #16161a;
+  --border: rgba(255, 255, 255, 0.1);
+  --input-bg: #1f1f23;
+
+  --primary: #e50914; 
+  --primary-weak: rgba(229, 9, 20, 0.2);
+
+  --nav-bg: rgba(11, 11, 15, 0.5);
+  --nav-text: #ffffff;
+  --nav-border: rgba(255, 255, 255, 0.1);
+
+  --shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+/* 2. blue 테마 (차분한 블루 포인트) */
+:root[data-theme="blue"] {
+  --bg: #ffffff;
+  --text: #0f172a;
+  --muted: #64748b;
+  --card: #ffffff;
+  --border: #e2e8f0;
+  --input-bg: #ffffff;
+
+  --primary: #2f6bff;
+  --primary-weak: rgba(47, 107, 255, 0.1);
+
+  --nav-bg: rgba(255, 255, 255, 0.5);
+  --nav-text: #1e293b;
+  --nav-border: rgba(47, 107, 255, 0.1);
+
+  --shadow: 0 10px 30px rgba(2, 8, 23, 0.08);
+}
+
+/* 3. midnight 테마 (고급스러운 시네마 감성) */
+:root[data-theme="midnight"] {
+  --bg: #0f172a;
+  --text: #f8fafc;
+  --muted: #94a3b8;
+  --card: #1e293b;
+  --border: rgba(255, 255, 255, 0.08);
+  --input-bg: #1e293b;
+
+  --primary: #f59e0b; /* 골드 */
+  --primary-weak: rgba(245, 158, 11, 0.15);
+
+  --nav-bg: rgba(15, 23, 42, 0.5);
+  --nav-text: #f8fafc;
+  --nav-border: rgba(245, 158, 11, 0.2);
+  --shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+}
+
+/* 4. purple 테마 (트렌디한 사이버펑크) */
+:root[data-theme="purple"] {
+  --bg: #09090b;
+  --text: #ececef;
+  --muted: #a1a1aa;
+  --card: #18181b;
+  --border: rgba(168, 85, 247, 0.2);
+  --input-bg: #27272a;
+
+  --primary: #a855f7; /* 네온 퍼플 */
+  --primary-weak: rgba(168, 85, 247, 0.15);
+
+  --nav-bg: rgba(9, 9, 11, 0.5);
+  --nav-text: #ffffff;
+  --nav-border: rgba(168, 85, 247, 0.3);
+  --shadow: 0 0 20px rgba(168, 85, 247, 0.15);
+}
+
+/* 5. forest 테마 (눈이 편안한 그린) */
+:root[data-theme="forest"] {
+  --bg: #064e3b;
+  --text: #ecfdf5;
+  --muted: #a7f3d0;
+  --card: #065f46;
+  --border: rgba(255, 255, 255, 0.1);
+  --input-bg: #047857;
+
+  --primary: #10b981; /* 에메랄드 */
+  --primary-weak: rgba(16, 185, 129, 0.2);
+
+  --nav-bg: rgba(6, 78, 59, 0.5);
+  --nav-text: #ecfdf5;
+  --nav-border: rgba(16, 185, 129, 0.2);
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* 6. sunset 테마 (부드러운 노을 감성) */
+:root[data-theme="sunset"] {
+  --bg: #fffcf9;
+  --text: #431407;
+  --muted: #9a3412;
+  --card: #ffffff;
+  --border: #fed7aa;
+  --input-bg: #fff7ed;
+
+  --primary: #f97316; /* 오렌지 */
+  --primary-weak: rgba(249, 115, 22, 0.1);
+
+  --nav-bg: rgba(255, 252, 249, 0.5);
+  --nav-text: #431407;
+  --nav-border: rgba(249, 115, 22, 0.1);
+  --shadow: 0 8px 30px rgba(154, 52, 18, 0.06);
+}
+
+/* -------------------------------------------------
+   Base reset
+-------------------------------------------------- */
+* {
+  box-sizing: border-box;
+  /* 모든 색상 변경에 부드러운 전환 효과 적용 */
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+html, body { 
+  height: 100%; 
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Apple SD Gothic Neo",
+    "Noto Sans KR", Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji",
+    "Segoe UI Emoji";
+}
+
+/* 기본 텍스트 태그가 테마 색상을 따르도록 설정 */
+h1, h2, h3, h4, h5, h6, p, span, div {
+  color: var(--text);
+}
+
+/* -------------------------------------------------
+   Common UI helpers
+-------------------------------------------------- */
+a { 
+  color: inherit; 
+  text-decoration: none; 
+}
+
+/* 공통 버튼 디자인 */
+.btn {
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--text);
+  padding: 10px 12px;
+  border-radius: 12px;
+  font-weight: 900;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn:hover { 
+  background: var(--primary-weak); 
+}
+
+/* 강조 버튼 (배경색이 primary 컬러) */
+.btn.primary {
+  border-color: transparent;
+  background: var(--primary);
+  color: #ffffff; /* 강조 버튼 위 글자는 항상 흰색 */
+}
+.btn.primary:hover { 
+  filter: brightness(0.9); 
+}
+
+/* 공통 입력창 디자인 */
+.input {
+  border: 1px solid var(--border);
+  background: var(--input-bg);
+  color: var(--text);
+  padding: 10px 12px;
+  border-radius: 12px;
+  outline: none;
+}
+.input:focus {
+  box-shadow: 0 0 0 3px var(--primary-weak);
+  border-color: var(--primary);
+}
+
+/* 스크롤바 디자인 (테마에 맞춰 반응) */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted);
+}
