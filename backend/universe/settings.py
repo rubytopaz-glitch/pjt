@@ -21,7 +21,8 @@ SECRET_KEY = os.getenv(
     "django-insecure-change-me"  # 로컬 기본값 (배포 시 반드시 .env로)
 )
 
-DEBUG = os.getenv("DEBUG", "1") == "1"
+# DEBUG = os.getenv("DEBUG", "1") == "1"
+DEBUG = os.getenv("DEBUG", "0") == "1"
 
 # ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS", "127.0.0.1,localhost").split(",")
 ALLOWED_HOSTS = ['*']
@@ -56,14 +57,11 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
-    # ✅ CORS는 최대한 위로 (CommonMiddleware보다 위)
     "corsheaders.middleware.CorsMiddleware",
-    
-    'whitenoise.middleware.WhiteNoiseMiddleware',
-    
-    
 
     "django.middleware.security.SecurityMiddleware",
+    "whitenoise.middleware.WhiteNoiseMiddleware",
+
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
@@ -140,11 +138,16 @@ USE_TZ = True
 
 
 # Static files
-STATIC_URL = "static/"
+STATIC_URL = "/static/"
+
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
-CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_ALL_ORIGINS = False
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:5173",
+    "https://super-pasca-957696.netlify.app",
+]
 # ✅ 외부 API 키(나중 단계에서 사용)
 TMDB_API_KEY = os.getenv("TMDB_API_KEY", "")
 YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY", "")
@@ -178,4 +181,9 @@ if DATABASE_URL:
     }
     
     
-    
+
+
+# 정적 파일 관리 (CSS, JS, Images)
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
